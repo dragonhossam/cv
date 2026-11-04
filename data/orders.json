@@ -1,0 +1,53 @@
+[
+  {
+    "id": "ord-1793759321335",
+    "orderNumber": "CVM-45027",
+    "packageId": "pro",
+    "packageName": "Professional Plan",
+    "packageNameAr": "الباقة الاحترافية",
+    "amountEgp": 49,
+    "senderPhone": "01055443322",
+    "transactionId": "TXN-NEW998877",
+    "customerEmail": "testuser@example.com",
+    "customerName": "محمد علي",
+    "cvTitle": "My Resume",
+    "status": "paid",
+    "createdAt": "2026-11-04T02:28:41.335Z",
+    "approvedAt": "2026-11-04T02:28:45.219Z",
+    "notes": "تم التحقق من محفظة فودافون كاش وتأكيد العملية"
+  },
+  {
+    "id": "ord-101",
+    "orderNumber": "CVM-83921",
+    "packageId": "pro",
+    "packageName": "Professional Plan",
+    "packageNameAr": "الباقة الاحترافية",
+    "amountEgp": 49,
+    "senderPhone": "01099887766",
+    "transactionId": "TXN-9841203",
+    "customerEmail": "ahmed.dev@example.com",
+    "customerName": "أحمد محمود",
+    "cvTitle": "Senior Full Stack Engineer CV",
+    "status": "paid",
+    "createdAt": "2026-11-03T02:28:26.346Z",
+    "approvedAt": "2026-11-03T04:28:26.347Z",
+    "notes": "Approved automatically after verification"
+  },
+  {
+    "id": "ord-102",
+    "orderNumber": "CVM-84190",
+    "packageId": "premium",
+    "packageName": "Premium Plan",
+    "packageNameAr": "الباقة المميزة",
+    "amountEgp": 99,
+    "senderPhone": "01065432198",
+    "transactionId": "TXN-9845519",
+    "customerEmail": "sara.marketing@example.com",
+    "customerName": "سارة عبد الرحمن",
+    "cvTitle": "Marketing Director Resume",
+    "status": "pending",
+    "createdAt": "2026-11-04T00:28:26.347Z",
+    "approvedAt": null,
+    "notes": "Awaiting wallet receipt confirmation"
+  }
+]

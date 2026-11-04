@@ -1,0 +1,11 @@
+{
+  "vodafoneCashWallet": "01012345678",
+  "vodafoneCashName": "CV Maker Official Account",
+  "proPriceEgp": 49,
+  "premiumPriceEgp": 99,
+  "paymentInstructionsAr": "قم بتحويل المبلغ المطلوب إلى رقم محفظة فودافون كاش الموضحة أعلاه عبر تطبيق أنا فودافون أو كود التحويل (*9*7*الرقم*المبلغ#). بعد إتمام التحويل، أدخل رقم هاتفك المحول منه ورقم العملية (Transaction ID) الوارد في رسالة فودافون لتأكيد طلبك وتفعيل باقتك فوراً.",
+  "paymentInstructionsEn": "Transfer the required amount to the Vodafone Cash wallet number shown above via Ana Vodafone app or dialing *9*7*number*amount#. After completing the transfer, enter your sender phone number and the Transaction ID received in the SMS to immediately verify your order and activate your plan.",
+  "supportPhone": "+201012345678",
+  "supportEmail": "support@cvmaker.site",
+  "adminPasswordHash": "admin123"
+}
